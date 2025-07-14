@@ -4,15 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
-
-<h3 align="center">🚀 Full-stack Developer | Problem Solver | Tech Enthusiast 🚀</h3>
-
----
-
-## 🔥 About Me
-- 🎓 B.Tech in Computer Science & Engineering (2022–2026) at Lovely Professional University
-- 🌱 Currently exploring **AI integrations** and **system design**
-  
 ---
 
 ## 🧰 Tech Stack
@@ -28,23 +19,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-
----
-
-## 📈 GitHub Stats
-
-![Amanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanjeetSharma&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmanjeetSharma&theme=radical)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanjeetSharma&layout=compact&theme=radical)
-
----
-
-## 🏅 Certificates
-
-- Full-Stack Development Using MERN Stack — Cipher School
-- Server-side JavaScript with Node.js — Coursera
-- Divide and Conquer, Sorting and Searching, and Randomized Algorithms — Coursera
 
 ---
 
