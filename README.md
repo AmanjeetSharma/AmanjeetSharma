@@ -1,7 +1,8 @@
 # 💻 Hi, I'm Amanjeet Sharma! 👨‍💻
 
-![Header](./github-header-image.png)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+</p>
 
 
 <h3 align="center">🚀 Full-stack Developer | Problem Solver | Tech Enthusiast 🚀</h3>
