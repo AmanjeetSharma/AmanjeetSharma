@@ -1,6 +1,6 @@
 # > whoami:   💻 Amanjeet Sharma
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndpYjduYmY0enYybXppbnVuNXh2OGhvOWZyeDlzNnRhY21tZnc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlnZGJieTR1amdvdm51dzMxc2o4NTc3eGtscms5emRuYWtianMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
 ---
@@ -30,4 +30,4 @@
 
 # ⭐️ > echo "Thanks for visiting! ⚡
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coder GIF"> <br> <i>💡 "Code is like humor. When you have to explain it, it's bad."</i> </p>
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZtbWpuaGhvc3A2MjQwc254YTIyeGR0aDNpOXllZzZrOHZtZWI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Coder GIF"> <br> <i>💡 "Code is like humor. When you have to explain it, it's bad."</i> </p>
