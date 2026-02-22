@@ -1,11 +1,11 @@
-> whoami:   💻 Amanjeet Sharma
+# > whoami:   💻 Amanjeet Sharma
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndpYjduYmY0enYybXppbnVuNXh2OGhvOWZyeDlzNnRhY21tZnc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
 ---
 
-> ls tech_stack/ 🔧
+## > ls tech_stack/ 🔧
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,7 +20,7 @@
 
 ---
 
-> ls connect/  🌐
+## > ls connect/  🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanjeet-sharma-20b75a252)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmanjeetSharma)
@@ -28,6 +28,6 @@
 
 ---
 
-⭐️ > echo "Thanks for visiting! ⚡
+# ⭐️ > echo "Thanks for visiting! ⚡
 
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coder GIF"> <br> <i>💡 "Code is like humor. When you have to explain it, it's bad."</i> </p>
