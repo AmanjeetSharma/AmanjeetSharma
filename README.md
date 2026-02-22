@@ -1,6 +1,6 @@
 > whoami:   💻 Amanjeet Sharma
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndpYjduYmY0enYybXppbnVuNXh2OGhvOWZyeDlzNnRhY21tZnc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)" width="300" alt="Coding GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndpYjduYmY0enYybXppbnVuNXh2OGhvOWZyeDlzNnRhY21tZnc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
 ---
