@@ -1,4 +1,4 @@
-# > whoami:   💻 Amanjeet Sharma
+# Amanjeet Sharma
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlnZGJieTR1amdvdm51dzMxc2o4NTc3eGtscms5emRuYWtianMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" width="300" alt="Coding GIF">
 </p>
